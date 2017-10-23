@@ -1,0 +1,40 @@
+body {
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+hr {
+  background-color: black;
+  height: 5px;
+  width: 70px;
+  display: inline-block;
+  /*outline: 1px solid black;*/
+  margin-top: 0;
+}
+
+/*.container {
+    width: 1130px;
+    height: 770px;
+}*/
+
+figure {
+  float: left;
+  margin-left: 25px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 336px;
+  height: 333px;
+  padding: 20px;
+}
+
+h6 {
+  position: relative;
+  bottom: 90px;
+  left: 210px;
+  color: #fff;
+  font-size: 20px;
+}
