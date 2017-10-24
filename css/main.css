@@ -1,9 +1,9 @@
 body {
-  font-family: 'Saira Extra Condensed', sans-serif;
+  font-family: 'Exo 2', sans-serif;
 }
 
 h1 {
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 hr {
@@ -34,14 +34,14 @@ hr {
 
 .name-1, .name-2, .name-3, .name-4, .name-5, .name-6 {
   position: relative;
-  margin-top: -100px;
-  margin-right: 20px;
+  margin-top: -80px;
+  margin-right: 18px;
 
 }
 
 .name-1 h6, .name-2 h6, .name-3 h6, .name-4 h6, .name-5 h6, .name-6 h6 {
   text-align: right;
-  font-size: 20px;
+  font-size: 18px;
   color: #fff;
   /*outline:1px solid white;*/
   /*display: inline-block;*/
