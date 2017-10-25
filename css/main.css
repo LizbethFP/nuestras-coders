@@ -2,11 +2,12 @@ body {
   font-family: 'Exo 2', sans-serif;
 }
 
-/*Línea horizontal*/
+/*Título*/
 h1 {
   margin-bottom: 10px;
 }
 
+/*Línea horizontal*/
 hr {
   background-color: black;
   display: inline-block;
@@ -16,12 +17,13 @@ hr {
   /*outline: 1px solid black;*/
 }
 
-
+/*Contenedor*/
 .container {
   height: 770px;
   width: 1130px;
 }
 
+/*Cajas de las imágenes*/
 .coder-1, .coder-2, .coder-3, .coder-4, .coder-5, .coder-6 {
   display: inline-block;
   float: left;
@@ -34,12 +36,14 @@ hr {
   /*outline: 1px solid black;*/
 }
 
+/*Cajas de los textos de las imágenes*/
 .name-1, .name-2, .name-3, .name-4, .name-5, .name-6 {
   margin-top: -80px;
   margin-right: 18px;
   position: relative;
 }
 
+/*Textos de las imágenes*/
 .name-1 h6, .name-2 h6, .name-3 h6, .name-4 h6, .name-5 h6, .name-6 h6 {
   color: #fff;
   font-size: 18px;
