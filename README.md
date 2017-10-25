@@ -12,7 +12,7 @@ Este proyecto contiene:
 1. Un archivo `index.html` que contiene la estructura de la página web. Este debe contener las siguientes secciones:
   * Un encabezado con un título.
   * Una línea horizontal gruesa.
-  * Un contenedor con seis imágenes que mantienen un margen entre sí.
+  * Un contenedor con seis imágenes que mantienen un margen entre sí y un texto superpuesto.
 
 2. Una carpeta `css` que contiene un archivo `main.css` donde hay clases específicas para darle estilo a la página web.
 
